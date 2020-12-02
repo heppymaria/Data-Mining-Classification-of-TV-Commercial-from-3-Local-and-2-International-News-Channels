@@ -1,4 +1,4 @@
-## Classification-of-TV-Commercial-from-3-Indian-and-2-International-News-Channels-Using-the-K-Nearest-Neighbor
+## Classification-of-TV-Commercial-from-3-Local-and-2-International-News-Channels-Using-the-K-Nearest-Neighbor
 
 Dataset yang dieksplorasi adalah Channel Commercial Detection Dataset yang dapat diakses pada data.world. Tim melakukan exploratory data analysis (EDA) untuk menemukan pola dan karakteristik data. 
 
