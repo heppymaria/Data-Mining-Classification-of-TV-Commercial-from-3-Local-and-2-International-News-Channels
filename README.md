@@ -26,3 +26,7 @@ Berikut keterangan feature pada setiap dataset.
 123-4123 Bag of Audio Words ( 4000 bins) 4124-4125 Bag of Audio Words ( 4000 bins) 
 Label +1/-1 ( Commercials/Non Commercials)
 
+Data yang sudah di-clean dapat diakses pada link berikut:
+https://drive.google.com/file/d/1avsqbDnDoWN4Tbwzc46zrjfGtKJelarh/view?usp=sharing
+
+
